@@ -1,4 +1,25 @@
-### Hi there 👋
+# Jonathan Knight Black
+
+Mechanical Engineering Graduate Research Assistant
+
+## Programming Languages
+
+* Python
+* MATLAB
+* C++
+* Java
+* JavaScript
+
+## Other Software Proficiencies
+
+* Git
+* Microsoft Office
+
+### CAD / FEM
+
+* ABAQUS
+* SolidWorks
+* Ansys
 
 <!--
 **jonkb/jonkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
