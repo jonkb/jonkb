@@ -1,15 +1,15 @@
 # Jonathan Knight Black
 
-Mechanical Engineering Graduate Research Assistant
+*Mechanical Engineering Graduate Research Assistant*
 
 ## Technical Proficiencies
 
-* Programming Languages: Python, MATLAB, C++, Java, JavaScript
-* CAD / FEM: ABAQUS, SolidWorks, Ansys
-* Git
-* Microsoft Office
-* Basic Machining
-* Languages: Advanced Portuguese, Intermediate Spanish, Basic ASL
+* **Programming Languages**: Python, MATLAB, C++, Java, JavaScript
+* **CAD / FEM**: ABAQUS, SolidWorks, Ansys
+* **Git**
+* **Microsoft Office**
+* **Basic Machining**
+* **Languages**: Advanced Portuguese, Intermediate Spanish, Basic ASL
 
 
 <!-- LONG FORMAT
